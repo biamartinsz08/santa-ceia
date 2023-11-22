@@ -4,3 +4,9 @@ p {
 body {
     background: #6495ED
 }
+h1{
+    text-align: center;
+}
+em strong {
+    color:bisque;
+}
